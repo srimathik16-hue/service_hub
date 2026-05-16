@@ -72,7 +72,7 @@ Password: 1111
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/servicehub.git
+git clone https://github.com/srimathik16-hue/servicehub.git
 ```
 
 ### Move to Project Folder
